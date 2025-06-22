@@ -1,4 +1,4 @@
-# About My New Software
+# ehviewer绿色版1.9.7.0
 
 At My New Software, we are committed to delivering the best software solutions for our customers.
 
