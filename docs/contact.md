@@ -1,4 +1,4 @@
-# 精东app下载
+# ehviewer官方入口下载
 
 We would love to hear from you! Reach out to us through any of the following methods:
 
